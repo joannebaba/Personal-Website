@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/static/media/Clue.d3ad2f0f.png"
   },
   {
-    "revision": "08e53a516d2ba719d98da46c49b3c369",
-    "url": "/static/media/NunitoSans-Bold.08e53a51.ttf"
-  },
-  {
     "revision": "4c8f447011eef80831b45edb1e5971e0",
     "url": "/static/media/NunitoSans-Regular.4c8f4470.ttf"
+  },
+  {
+    "revision": "08e53a516d2ba719d98da46c49b3c369",
+    "url": "/static/media/NunitoSans-Bold.08e53a51.ttf"
   },
   {
     "revision": "5cd180df7013a03dc64e9ccb903c37d0",
