@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/SolarTracker.ce3e4b8b.jpg"
   },
   {
-    "revision": "b30cf541ca05db181aff",
+    "revision": "3922d95523c0e8d90773",
     "url": "/static/css/main.75b1eb3e.chunk.css"
   },
   {
@@ -52,20 +52,20 @@ self.__precacheManifest = [
     "url": "/static/media/LaserSpeedometer.4b6a2429.jpg"
   },
   {
-    "revision": "b30cf541ca05db181aff",
-    "url": "/static/js/main.31b24152.chunk.js"
+    "revision": "3922d95523c0e8d90773",
+    "url": "/static/js/main.5f866650.chunk.js"
   },
   {
     "revision": "d3ad2f0f206b191ac5c780b85c5f0c8b",
     "url": "/static/media/Clue.d3ad2f0f.png"
   },
   {
-    "revision": "4c8f447011eef80831b45edb1e5971e0",
-    "url": "/static/media/NunitoSans-Regular.4c8f4470.ttf"
-  },
-  {
     "revision": "08e53a516d2ba719d98da46c49b3c369",
     "url": "/static/media/NunitoSans-Bold.08e53a51.ttf"
+  },
+  {
+    "revision": "4c8f447011eef80831b45edb1e5971e0",
+    "url": "/static/media/NunitoSans-Regular.4c8f4470.ttf"
   },
   {
     "revision": "5cd180df7013a03dc64e9ccb903c37d0",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.6642a165.chunk.css"
   },
   {
-    "revision": "4b25e3bbc9ce098f9f40c4ed5ac72376",
+    "revision": "e41be9cbc254f2003730f2d1999b3a50",
     "url": "/index.html"
   }
 ];
